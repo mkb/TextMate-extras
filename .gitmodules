@@ -7,3 +7,6 @@
 [submodule "Bundles/SCSS.tmbundle"]
 	path = Bundles/SCSS.tmbundle
 	url = https://github.com/kuroir/SCSS.tmbundle.git
+[submodule "Bundles/Whitespace.tmbundle"]
+	path = Bundles/Whitespace.tmbundle
+	url = https://github.com/vigetlabs/whitespace-tmbundle.git
