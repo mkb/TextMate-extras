@@ -4,3 +4,6 @@
 [submodule "Themes/Baby-The-Code-Shines-Bright"]
 	path = Themes/Baby-The-Code-Shines-Bright
 	url = https://github.com/spacekat/Baby-The-Code-Shines-Bright.git
+[submodule "Bundles/SCSS.tmbundle"]
+	path = Bundles/SCSS.tmbundle
+	url = https://github.com/kuroir/SCSS.tmbundle.git
