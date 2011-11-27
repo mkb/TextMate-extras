@@ -10,3 +10,6 @@
 [submodule "Bundles/Whitespace.tmbundle"]
 	path = Bundles/Whitespace.tmbundle
 	url = https://github.com/vigetlabs/whitespace-tmbundle.git
+[submodule "Bundles/Lua.tmbundle"]
+	path = Bundles/Lua.tmbundle
+	url = https://github.com/textmate/lua.tmbundle.git
