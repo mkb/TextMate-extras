@@ -13,3 +13,9 @@
 [submodule "Bundles/Lua.tmbundle"]
 	path = Bundles/Lua.tmbundle
 	url = https://github.com/textmate/lua.tmbundle.git
+[submodule "Bundles/Ruby-Haml.tmbundle"]
+	path = Bundles/Ruby-Haml.tmbundle
+	url = https://github.com/mattpolito/ruby-haml.tmbundle.git
+[submodule "Bundles/Ruby-Sass.tmbundle"]
+	path = Bundles/Ruby-Sass.tmbundle
+	url = https://github.com/charlesr/ruby-sass-tmbundle.git
